@@ -1,0 +1,11 @@
+.ellipsify {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    max-width: 100%;
+    display: inline-block;  
+}
+
+div {
+  width: 100px;
+}
